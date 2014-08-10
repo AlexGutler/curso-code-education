@@ -1,1 +1,3 @@
-<?php echo 'Isto é um Teste' ?>
+<?php echo 'Isto é um Teste'
+/*Teste curso-code-education*/ 
+?>
